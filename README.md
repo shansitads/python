@@ -1,2 +1,2 @@
-# python
-Collection of the basic python programs I made while learning python
+# Python
+Collection of the some python programs I made while learning python
